@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>SoftCleaner</id>
-    <version>31.8.24.11</version>
+    <version>31.8.24.22</version>
     <packageSourceUrl>https://github.com/satheeshsoft/Soft-Cleaner-2024/tree/main/tools</packageSourceUrl>
     <owners>satheeshsoft Technology</owners>
     <title>Soft Cleaner</title>
@@ -50,10 +50,9 @@ Requirement recommended 64 bit Windows operating system: Windows 11/10/8/Server,
 
 About virustotal false positives: The false positives generated from virustotal about satheeshsoft Technology software and Soft Cleaner is completely wrong.
 virustotal positives (SCSetup.exe): https://www.virustotal.com/gui/file/b67b2279a910467f665914ed2a1672f9f0c60517580ae6904927d29fc905f017?nocache=1
-
 Therefor here described the scan results from Dr.WEB Anti-virus (SCSetup.exe). FileHash - Algorithm MD5: 297103BD27E980E337048DA190E3F821  https://online396.drweb.com/cache/?i=634c5f30a9ad347fe6cdb4ff17f32ea0
 
-	![Screenshot](https://raw.githubusercontent.com/satheeshsoft/Soft-Cleaner-2024/main/soft-cleaner-utlity-help.png)]]></description>
+	![Screenshot](https://cdn.statically.io/gh/satheeshsoft/Soft-Cleaner-2024/main/Soft%20Cleaner%20desktop.png)]]></description>
 
     <releaseNotes>Technical update</releaseNotes>
   </metadata>
