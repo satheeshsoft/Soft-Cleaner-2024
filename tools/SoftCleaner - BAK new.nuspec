@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2015/06/nuspec.xsd">
   <metadata>
     <id>SoftCleaner</id>
-    <version>31.8.24.22</version>
+    <version>31.8.24.11</version>
     <packageSourceUrl>https://github.com/satheeshsoft/Soft-Cleaner-2024/tree/main/tools</packageSourceUrl>
     <owners>satheeshsoft Technology</owners>
     <title>Soft Cleaner</title>
