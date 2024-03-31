@@ -1,14 +1,14 @@
 ﻿$ErrorActionPreference = 'Stop';
-$toolsDir   = "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"
-$fileLocation = Join-Path $toolsDir 'SCSetup.exe'
-$packageName = 'Soft Cleaner'
+
 $packageArgs = @{
-  packageName   = $packageName
-  unzipLocation = $toolsDir
-  fileType      = 'exe'
-  file         = $fileLocation
-  softwareName  = 'Soft Cleaner'
-  validExitCodes= @(0, 3010, 1641)
-  silentArgs   = '/VERYSILENT /SUPPRESSMSGBOXES /NORESTART /SP-'  
+    packageName   = $env:ChocolateyPackageName
+    url           = 'https://github.com/satheeshsoft/Soft-Cleaner-2024/raw/main/tools/SCSetup.exe'
+    checksum 	  = 'B67B2279A910467F665914ED2A1672F9F0C60517580AE6904927D29FC905F017'
+    checksumType  = 'SHA256'
+    fileType      = 'EXE'
+    silentArgs    = '/S'
+    validExitCodes = @(0)
 }
-Install-ChocolateyInstallPackage @packageArgs
+
+Stop-Process -ProcessName "Soft Cleaner" -ErrorAction SilentlyContinue -Force
+Install-ChocolateyPackage @packageArgs
