@@ -15,5 +15,5 @@ and can be verified by doing the following:
   - Use chocolatey utility 'checksum.exe'
 3. The checksums should match the following:
  
-  FileHash: Algorithm MD5
-  Algorithm MD5: 297103BD27E980E337048DA190E3F821
+  FileHash: MD5
+  MD5: 2b6e1a648abd7afb9aa62c1532ab4c2b 

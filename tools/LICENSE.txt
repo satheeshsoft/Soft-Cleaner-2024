@@ -29,14 +29,12 @@ Website: https://www.softcleaner.in
 
 Product: Soft Cleaner
 License: Free.
-Specification: Automatically speed up your slow computer systems and cleaner. Automatic memory optimizer. Anti-spyware and cyber security. Advanced Web and file search engine utility. https://softcleaner.in/speed-up-your-computer
+Specification: Automatically speed up your slow computer systems and cleaner. Automatic memory optimizer. Anti-spyware. Advanced Web and file search engine utility. https://softcleaner.in/speed-up-your-computer
 
 Bird: UNICODE based free clarity text editor. https://softcleaner.in/bird
 
-loginTimer: Y2K38 technology discovery. The powerful software that automatically scans your computer login times and secretly stores them for you in a private text file, in addition to all users' login date, time, total logins each day/user, admin actions, login behavior (local and remote) and saves them continuously, one by one, in a private log file. This makes it easy for you to identify any suspicious activity on your computer and take appropriate action if necessary. It included the first successful discovery of Y2K38 technology. It works up to 2099 or after, with no Y2K year limitations. https://softcleaner.in/y2k38-logintimer-computer-system-login
+loginTimer: Y2K38 technology invention. The powerful software that automatically scans your computer login times and secretly stores them for you in a private text file, in addition to all users' login date, time, total logins each day/user, admin actions, login behavior (local and remote) and saves them continuously, one by one, in a private log file. This makes it easy for you to identify any suspicious activity on your computer and take appropriate action if necessary. It included the first successful discovery of Y2K38 technology. It works up to 2099 or after, with no Y2K year limitations. https://softcleaner.in/y2k38-logintimer-computer-system-login
 Buy loginTimer professional: https://payhip.com/b/Rzb2O
 
-Alternative website: https://logintimer.weebly.com
-
-Privacy Policy: https://www.softcleaner.in/privacy-policy 
+Privacy Policy: https://softcleaner.in/privacy-policy-2/
 FAQ https://www.softcleaner.in/faq
