@@ -4,12 +4,12 @@
     <id>SoftCleaner</id>
     <version>31.8.24.11</version>
     <packageSourceUrl>https://github.com/satheeshsoft/Soft-Cleaner-2024/tree/main/tools</packageSourceUrl>
-    <owners>satheeshsoft Technology</owners>
+    <owners>satheeshsoft</owners>
     <title>Soft Cleaner</title>
-    <authors>satheeshsoft Technology</authors>
+    <authors>satheeshsoft</authors>
     <projectUrl>https://softcleaner.in/speed-up-your-computer</projectUrl>
     <iconUrl>https://cdn.statically.io/gh/satheeshsoft/Soft-Cleaner-2024/main/SoftCleaner-Icon.png</iconUrl>
-    <copyright>satheeshsoft Technology</copyright>
+    <copyright>satheeshsoft</copyright>
     <licenseUrl>https://softcleaner.in/privacy-policy-2/</licenseUrl>
     <requireLicenseAcceptance>true</requireLicenseAcceptance>
     <docsUrl>https://softcleaner.in/speed-up-your-computer</docsUrl>
@@ -48,13 +48,12 @@ This feature includes the user's optional keywords either with or without them. 
 
 Requirement recommended 64 bit Windows operating system: Windows 11/10/8/Server, 32/64 bit or Windows 7 Ultimate 64 SP1-IE11(updated and .NET).
 
-About virustotal false positives: The false positives generated from virustotal about satheeshsoft Technology software and Soft Cleaner is completely wrong.
-virustotal positives (SCSetup.exe): https://www.virustotal.com/gui/file/be3aa22107165c2d3bfa5fce43c94b458d4c3a355233e012f96e3756b315f554?nocache=1
+About virustotal false positives: The false positives generated from virustotal about satheeshsoft software and Soft Cleaner is completely wrong.
+virustotal positives (SCSetup.exe): https://www.virustotal.com/gui/file/1a7963fd369eab554349d269ee9c98298c740f03edf3408269b0957bd00c1048?nocache=1
 
-Therefor here described the scan results from Jotti, Kaspersky scan (SCSetup.exe). FileHash - Algorithm MD5: 2b6e1a648abd7afb9aa62c1532ab4c2b  https://virusscan.jotti.org/en-US/filescanjob/3iqliev3js
-https://opentip.kaspersky.com/BE3AA22107165C2D3BFA5FCE43C94B458D4C3A355233E012F96E3756B315F554/results
+Therefor here described the scan results from DR.WEB scan (SCSetup.exe). FileHash - Algorithm MD5: 84495fcd0848561977f2f34160519b52  https://online192.drweb.com/cache/?i=1ed03fd7c21a5f47c1c50136acd6b226
 
-	![Screenshot](https://cdn.statically.io/gh/satheeshsoft/Soft-Cleaner-2024/main/Soft%20Cleaner%20desktop.png)]]></description>
+	![Screenshot](https://raw.githubusercontent.com/satheeshsoft/Soft-Cleaner-2024/main/soft%20cleaner.png)]]></description>
 
     <releaseNotes>Technical update</releaseNotes>
   </metadata>
