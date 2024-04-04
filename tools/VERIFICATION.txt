@@ -16,4 +16,4 @@ and can be verified by doing the following:
 3. The checksums should match the following:
  
   FileHash: MD5
-  MD5: 2b6e1a648abd7afb9aa62c1532ab4c2b 
+  MD5: 84495fcd0848561977f2f34160519b52
